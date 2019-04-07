@@ -4,8 +4,11 @@ void main(){
 
 int bt[20],p[20],wt[20],tat[20],i,j,n,total=0,pos,temp;
 float avg_wt,avg_tat;
-
+printf("\n\n*************************************************************\n");
+printf("\n\n*************************************************************\n");
 printf("\n\n************* Coded By - Deepesh Kr. Pandey *****************\n");
+printf("\n\n*************************************************************\n");
+printf("\n\n*************************************************************\n");
 printf("\n\n");
 printf("We assume the arrival time to be zero(0). For all process\n\nHow Many Process Do You Have ?  \n");
 scanf("%d",&n);
